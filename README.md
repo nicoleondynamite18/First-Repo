@@ -1,2 +1,2 @@
 # First-Repo
-First Repository created on GitHub for learning purposes. 
+First Repository created on GitHub for the purpose of learning. 
